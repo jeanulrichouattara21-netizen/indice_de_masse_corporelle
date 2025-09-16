@@ -58,3 +58,5 @@ elif st.session_state.page == "calcul":
     # 🔄 Bouton pour revenir à l'accueil
     if st.button("↩️ Retour à l'accueil"):
         st.session_state.page = "accueil"
+   
+      
